@@ -1,3 +1,4 @@
+
 ### Проект Messenger
 ## sprint_1
 ## sprint_2
@@ -25,3 +26,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+- Pull request sprint 1 [https://github.com/Bmazurm/middle.messenger.praktikum.yandex/pull/1](https://github.com/Bmazurm/middle.messenger.praktikum.yandex/pull/1)
+- Pull request sprint 2 [https://github.com/Bmazurm/middle.messenger.praktikum.yandex/pull/6](https://github.com/Bmazurm/middle.messenger.praktikum.yandex/pull/6)
